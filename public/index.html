@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jokerz — Bakery · Boba · Café</title>
+  <meta name="description" content="Jokerz is a playful bakery, boba bar and café: celebration cakes, laminated pastries, hand-shaken bubble tea and a sunny place to sit.">
+  <meta name="theme-color" content="#FBF6EE">
+  <link rel="icon" href="assets/brand/jokerz-mark.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/hero/hero-signature-cake.webp" as="image" type="image/webp" imagesrcset="assets/hero/hero-signature-cake-sm.webp 600w, assets/hero/hero-signature-cake.webp 1200w" imagesizes="(max-width: 900px) 88vw, 42vw">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>document.documentElement.classList.add('js');</script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header" data-header>
+    <div class="wrap header-inner">
+      <a class="brand" href="#top" aria-label="Jokerz home">
+        <img src="assets/brand/jokerz-logo-horizontal.svg" alt="Jokerz" width="176" height="51">
+      </a>
+      <nav class="nav" id="site-nav" aria-label="Primary">
+        <a href="#menu">Menu</a>
+        <a href="#celebrations">Celebration cakes</a>
+        <a href="#boba">Boba bar</a>
+        <a href="#craft">Our craft</a>
+        <a href="#visit">Visit</a>
+        <a class="btn btn-small nav-cta" href="#order">Order a cake</a>
+      </nav>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+        <span class="sr-only">Open menu</span><span class="bar"></span><span class="bar"></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- HERO -->
+    <section class="hero" id="top">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow tri"><span class="dot y"></span>Bakery <span class="dot t"></span>Boba <span class="dot p"></span>Café</p>
+          <h1>Seriously<br>good cakes,<br><em>playfully</em> made.</h1>
+          <p class="lede">Layered celebration cakes, buttery morning pastries and hand-shaken boba — baked in small batches and finished with a wink of colour.</p>
+          <div class="hero-actions">
+            <a class="btn" href="#menu">Explore the menu</a>
+            <a class="btn btn-ghost" href="#celebrations">Plan a celebration cake</a>
+          </div>
+          <ul class="hero-points" role="list">
+            <li><strong>Fresh daily</strong><span>From the oven each morning</span></li>
+            <li><strong>Made to order</strong><span>Cakes for every milestone</span></li>
+            <li><strong>Boba bar</strong><span>Shaken to your sweetness</span></li>
+          </ul>
+        </div>
+
+        <div class="hero-visual">
+          <div class="hero-arch">
+            <img src="assets/hero/hero-signature-cake.webp"
+                 srcset="assets/hero/hero-signature-cake-sm.webp 600w, assets/hero/hero-signature-cake.webp 1200w"
+                 sizes="(max-width: 900px) 88vw, 42vw" width="1200" height="1500"
+                 alt="Mint-iced celebration cake crowned with blush-pink buttercream rosettes" fetchpriority="high">
+          </div>
+          <figure class="hero-float hero-float-a">
+            <img src="assets/food/macarons-on-blush-sm.webp" width="450" height="450" alt="Pastel macarons on a blush-pink surface" loading="lazy">
+            <figcaption>Macaron of the week<br><strong>Pistachio rose</strong></figcaption>
+          </figure>
+          <figure class="hero-float hero-float-b">
+            <img src="assets/food/brown-sugar-boba-sm.webp" width="500" height="500" alt="Brown-sugar milk tea with tapioca pearls" loading="lazy">
+            <figcaption>Bar favourite<br><strong>Brown-sugar pearl</strong></figcaption>
+          </figure>
+          <div class="badge" aria-hidden="true">
+            <svg viewBox="0 0 120 120"><defs><path id="circ" d="M60,60 m-46,0 a46,46 0 1,1 92,0 a46,46 0 1,1 -92,0"/></defs>
+              <text><textPath href="#circ">BAKERY • BOBA • CAFÉ • BAKED DAILY •</textPath></text></svg>
+            <img src="assets/brand/jokerz-mark.svg" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- MARQUEE -->
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee-track">
+        <span>Celebration cakes</span><i></i><span>Croissants</span><i></i><span>Bubble tea</span><i></i><span>Macarons</span><i></i><span>Cupcakes</span><i></i><span>Cookies</span><i></i><span>Iced coffee</span><i></i>
+        <span>Celebration cakes</span><i></i><span>Croissants</span><i></i><span>Bubble tea</span><i></i><span>Macarons</span><i></i><span>Cupcakes</span><i></i><span>Cookies</span><i></i><span>Iced coffee</span><i></i>
+      </div>
+    </div>
+
+    <!-- THREE COUNTERS -->
+    <section class="section counters" aria-labelledby="counters-title">
+      <div class="wrap">
+        <div class="section-head center reveal">
+          <p class="eyebrow">One joyful house</p>
+          <h2 id="counters-title">Three counters, <em>one</em> sweet habit.</h2>
+          <p>Come for a croissant, stay for a boba, leave with a cake box. Jokerz brings the bakery, the bubble-tea bar and the café under one bright roof.</p>
+        </div>
+        <div class="counter-grid">
+          <article class="counter-card bg-butter reveal">
+            <div class="counter-img"><img src="assets/food/croissant-on-plate-sm.webp" srcset="assets/food/croissant-on-plate-sm.webp 600w, assets/food/croissant-on-plate.webp 1200w" sizes="(max-width: 760px) 90vw, 30vw" width="1200" height="900" alt="A single flaky croissant on a white saucer" loading="lazy"></div>
+            <div class="counter-body">
+              <span class="tag tag-yellow">01 · Bakery</span>
+              <h3>Laminated, layered, lovingly over-buttered.</h3>
+              <p>Croissants, cookies, cupcakes and cakes by the slice — out of the oven before the doors open.</p>
+            </div>
+          </article>
+          <article class="counter-card bg-sea reveal">
+            <div class="counter-img"><img src="assets/food/milk-tea-jars-sm.webp" srcset="assets/food/milk-tea-jars-sm.webp 600w, assets/food/milk-tea-jars.webp 1200w" sizes="(max-width: 760px) 90vw, 30vw" width="1200" height="900" alt="Two glass jars of pearl milk tea with straws on a pale wood counter" loading="lazy"></div>
+            <div class="counter-body">
+              <span class="tag tag-teal">02 · Boba bar</span>
+              <h3>Pearls cooked fresh, teas shaken to order.</h3>
+              <p>Milk teas, fruit teas and creamy blends — choose your sweetness, your ice and your toppings.</p>
+            </div>
+          </article>
+          <article class="counter-card bg-lavender reveal">
+            <div class="counter-img"><img src="assets/cafe/cafe-counter-bright-sm.webp" srcset="assets/cafe/cafe-counter-bright-sm.webp 600w, assets/cafe/cafe-counter-bright.webp 1200w" sizes="(max-width: 760px) 90vw, 30vw" width="1200" height="900" alt="Airy café with arched windows, pendant lights and a curved wooden counter" loading="lazy"></div>
+            <div class="counter-body">
+              <span class="tag tag-purple">03 · Café</span>
+              <h3>A sunny seat, a good coffee, no rush.</h3>
+              <p>Pastel corners, natural light and the smell of fresh bakes — made for catch-ups and slow afternoons.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- MENU -->
+    <section class="section menu bg-cream-2" id="menu" aria-labelledby="menu-title">
+      <div class="wrap">
+        <div class="section-head split reveal">
+          <div>
+            <p class="eyebrow">Signature favourites</p>
+            <h2 id="menu-title">The counter, <em>curated.</em></h2>
+          </div>
+          <div class="filters" role="tablist" aria-label="Filter menu">
+            <button class="chip is-active" role="tab" aria-selected="true" data-filter="all">All</button>
+            <button class="chip" role="tab" aria-selected="false" data-filter="cakes">Cakes</button>
+            <button class="chip" role="tab" aria-selected="false" data-filter="pastries">Pastries</button>
+            <button class="chip" role="tab" aria-selected="false" data-filter="sweets">Sweets</button>
+            <button class="chip" role="tab" aria-selected="false" data-filter="boba">Boba</button>
+          </div>
+        </div>
+
+        <ul class="menu-grid" role="list" data-menu>
+          <li class="menu-item reveal" data-cat="cakes">
+            <div class="menu-img"><img src="assets/food/rainbow-layer-cake-sm.webp" srcset="assets/food/rainbow-layer-cake-sm.webp 500w, assets/food/rainbow-layer-cake.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Slice of rainbow layer cake showing bright sponge layers" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-pink">Cakes</span><h3>Jester rainbow layer</h3><p>Six colours of vanilla sponge, whipped vanilla-bean buttercream.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="cakes">
+            <div class="menu-img"><img src="assets/food/chocolate-cherry-layer-cake-sm.webp" srcset="assets/food/chocolate-cherry-layer-cake-sm.webp 500w, assets/food/chocolate-cherry-layer-cake.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Three-layer chocolate cake with cream and glossy dark cherries" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-pink">Cakes</span><h3>Black-cherry chocolate</h3><p>Dark cocoa layers, Chantilly cream and glossy cherry compote.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="cakes">
+            <div class="menu-img"><img src="assets/food/strawberry-cream-cake-sm.webp" srcset="assets/food/strawberry-cream-cake-sm.webp 500w, assets/food/strawberry-cream-cake.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Strawberry and cream sponge slice on a white plate" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-pink">Cakes</span><h3>Strawberry shortcake</h3><p>Feather-light sponge, fresh strawberries, barely-sweet cream.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="pastries">
+            <div class="menu-img"><img src="assets/food/artisan-croissants-sm.webp" srcset="assets/food/artisan-croissants-sm.webp 500w, assets/food/artisan-croissants.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Golden laminated croissants piled together" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-yellow">Pastries</span><h3>All-butter croissant</h3><p>Three days of lamination for that shatter-crisp, honeycomb crumb.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="pastries">
+            <div class="menu-img"><img src="assets/food/chocolate-chip-cookies-sm.webp" srcset="assets/food/chocolate-chip-cookies-sm.webp 500w, assets/food/chocolate-chip-cookies.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Close-up of chewy chocolate chip cookies" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-yellow">Pastries</span><h3>Brown-butter cookie</h3><p>Crisp edges, gooey middle, dark chocolate pools and sea salt.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="sweets">
+            <div class="menu-img"><img src="assets/food/teal-cupcakes-sm.webp" srcset="assets/food/teal-cupcakes-sm.webp 500w, assets/food/teal-cupcakes.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Row of cupcakes with soft teal icing and sprinkles" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-teal">Sweets</span><h3>Confetti cupcakes</h3><p>Vanilla cupcakes, teal cream-cheese frosting and sprinkles.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="sweets">
+            <div class="menu-img"><img src="assets/food/pastel-macarons-sm.webp" srcset="assets/food/pastel-macarons-sm.webp 500w, assets/food/pastel-macarons.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Stack of yellow, pink and green macarons" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-teal">Sweets</span><h3>Macaron box</h3><p>Lemon, raspberry and pistachio — a rotating box of six.</p></div>
+          </li>
+          <li class="menu-item reveal" data-cat="boba">
+            <div class="menu-img"><img src="assets/food/brown-sugar-boba-sm.webp" srcset="assets/food/brown-sugar-boba-sm.webp 500w, assets/food/brown-sugar-boba.webp 1000w" sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 24vw" width="1000" height="1000" alt="Brown-sugar milk tea with tapioca pearls in a tall clear cup" loading="lazy"></div>
+            <div class="menu-meta"><span class="tag tag-purple">Boba</span><h3>Brown-sugar pearl milk</h3><p>Slow-cooked caramel pearls tiger-striped through cold fresh milk.</p></div>
+          </li>
+        </ul>
+        <p class="fine center">Menu items, names and descriptions are illustrative for this demo.</p>
+      </div>
+    </section>
+
+    <!-- CELEBRATIONS -->
+    <section class="section celebrations bg-blush" id="celebrations" aria-labelledby="celebrate-title">
+      <div class="wrap celebrate-grid">
+        <div class="celebrate-media reveal">
+          <div class="celebrate-main"><img src="assets/food/pink-drip-celebration-cake-sm.webp" srcset="assets/food/pink-drip-celebration-cake-sm.webp 550w, assets/food/pink-drip-celebration-cake.webp 1100w" sizes="(max-width: 900px) 90vw, 44vw" width="1100" height="1375" alt="Pink drip cake topped with meringue kisses on a white stand" loading="lazy"></div>
+          <div class="celebrate-side">
+            <img src="assets/food/floral-birthday-cake-sm.webp" srcset="assets/food/floral-birthday-cake-sm.webp 450w, assets/food/floral-birthday-cake.webp 900w" sizes="(max-width: 900px) 44vw, 20vw" width="900" height="1125" alt="Cream birthday cake decorated with fresh flowers and a Happy Birthday topper" loading="lazy">
+            <img src="assets/food/three-tier-floral-cake-sm.webp" srcset="assets/food/three-tier-floral-cake-sm.webp 450w, assets/food/three-tier-floral-cake.webp 900w" sizes="(max-width: 900px) 44vw, 20vw" width="900" height="1125" alt="Three-tier white cake with pink fresh flowers beside champagne flutes" loading="lazy">
+          </div>
+        </div>
+        <div class="celebrate-copy reveal">
+          <p class="eyebrow">Celebration cakes</p>
+          <h2 id="celebrate-title">Cakes for the moments you’ll <em>retell.</em></h2>
+          <p>Birthdays, baby showers, engagements, office wins. Tell us the occasion and the mood — our decorators design a cake that tastes as good as it photographs.</p>
+          <ol class="steps">
+            <li><span class="step-n">1</span><div><h3>Pick your base</h3><p>Vanilla bean, rich chocolate, red velvet, lemon or rainbow sponge.</p></div></li>
+            <li><span class="step-n">2</span><div><h3>Choose your palette</h3><p>Soft pastels, bold Jokerz brights, florals, drips or something entirely yours.</p></div></li>
+            <li><span class="step-n">3</span><div><h3>Collect or have it delivered</h3><p>Boxed, chilled and ready for candles.</p></div></li>
+          </ol>
+          <a class="btn" href="#order">Start a cake enquiry</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- FROSTING BAND -->
+    <section class="frosting-band" aria-label="Brand promise">
+      <img src="assets/brand/pink-frosting-texture-sm.webp" srcset="assets/brand/pink-frosting-texture-sm.webp 800w, assets/brand/pink-frosting-texture.webp 1600w" sizes="100vw" width="1600" height="900" alt="" loading="lazy">
+      <div class="wrap">
+        <p class="band-quote">Life’s too short<br>for <em>boring</em> cake.</p>
+      </div>
+    </section>
+
+    <!-- CRAFT STORY -->
+    <section class="section craft" id="craft" aria-labelledby="craft-title">
+      <div class="wrap craft-grid">
+        <div class="craft-copy reveal">
+          <p class="eyebrow">Our craft</p>
+          <h2 id="craft-title">Made by hand, <em>every</em> morning.</h2>
+          <p>Behind the colour is real technique. Doughs rest overnight, buttercream is whipped in small batches and every rosette is piped by hand.</p>
+          <ul class="pillars" role="list">
+            <li><span class="pill-dot y"></span><div><h3>Real butter, real fruit</h3><p>No shortcuts on the ingredients that matter.</p></div></li>
+            <li><span class="pill-dot t"></span><div><h3>Small batches</h3><p>Baked through the day so the counter stays fresh.</p></div></li>
+            <li><span class="pill-dot p"></span><div><h3>Colour with care</h3><p>Pastel palettes, finished by hand, never rushed.</p></div></li>
+          </ul>
+        </div>
+        <div class="craft-mosaic">
+          <figure class="m1 reveal"><img src="assets/story/cake-decoration-process-sm.webp" srcset="assets/story/cake-decoration-process-sm.webp 500w, assets/story/cake-decoration-process.webp 1000w" sizes="(max-width: 900px) 60vw, 28vw" width="1000" height="1250" alt="Pastry chef smoothing pink icing on a layer cake" loading="lazy"><figcaption>Layering the buttercream</figcaption></figure>
+          <figure class="m2 reveal"><img src="assets/story/teal-cake-finishing-sm.webp" srcset="assets/story/teal-cake-finishing-sm.webp 450w, assets/story/teal-cake-finishing.webp 900w" sizes="(max-width: 900px) 40vw, 18vw" width="900" height="1125" alt="Teal buttercream cake being finished with sugar decorations" loading="lazy"><figcaption>Finishing touches</figcaption></figure>
+          <figure class="m3 reveal"><img src="assets/story/piping-buttercream-sm.webp" srcset="assets/story/piping-buttercream-sm.webp 450w, assets/story/piping-buttercream.webp 900w" sizes="(max-width: 900px) 40vw, 18vw" width="900" height="1125" alt="Piping bag adding buttercream rosettes to a chocolate cake" loading="lazy"><figcaption>Piped by hand</figcaption></figure>
+          <figure class="m4 reveal"><img src="assets/story/pastry-dough-prep-sm.webp" srcset="assets/story/pastry-dough-prep-sm.webp 500w, assets/story/pastry-dough-prep.webp 1000w" sizes="(max-width: 900px) 60vw, 28vw" width="1000" height="1250" alt="Hands kneading dough beside a rolling pin" loading="lazy"><figcaption>Dough, rested overnight</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- BOBA BAR -->
+    <section class="section boba bg-sea" id="boba" aria-labelledby="boba-title">
+      <div class="wrap boba-grid">
+        <div class="boba-media reveal">
+          <img class="boba-main" src="assets/food/boba-in-bloom-sm.webp" srcset="assets/food/boba-in-bloom-sm.webp 500w, assets/food/boba-in-bloom.webp 1000w" sizes="(max-width: 900px) 80vw, 36vw" width="1000" height="1250" alt="Hand holding a milky bubble tea against spring blossoms" loading="lazy">
+          <img class="boba-inset" src="assets/food/iced-latte-pour-sm.webp" srcset="assets/food/iced-latte-pour-sm.webp 450w, assets/food/iced-latte-pour.webp 900w" sizes="(max-width: 900px) 40vw, 16vw" width="900" height="1125" alt="Milk pouring into a glass of iced coffee" loading="lazy">
+        </div>
+        <div class="boba-copy reveal">
+          <p class="eyebrow">The boba bar</p>
+          <h2 id="boba-title">Shaken, stirred, <em>sipped</em> slowly.</h2>
+          <p>Fresh-cooked tapioca pearls, real tea and milk, and fruit that tastes like fruit. Build your own or order one of our favourites.</p>
+          <ul class="flavours" role="list">
+            <li class="f-purple">Taro cloud</li>
+            <li class="f-yellow">Mango pop</li>
+            <li class="f-pink">Strawberry milk</li>
+            <li class="f-green">Matcha cream</li>
+            <li class="f-orange">Thai tea</li>
+            <li class="f-teal">Brown-sugar pearl</li>
+          </ul>
+          <div class="pairing">
+            <img src="assets/food/lemon-cupcake-sm.webp" width="450" height="563" alt="Cupcake with swirled cream in a butter-yellow holder" loading="lazy">
+            <div><p class="eyebrow small">Perfect pairing</p><p><strong>Mango pop + lemon cream cupcake.</strong> Sunshine, twice.</p></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CAFE / VISIT -->
+    <section class="section visit" id="visit" aria-labelledby="visit-title">
+      <div class="wrap">
+        <div class="section-head split reveal">
+          <div>
+            <p class="eyebrow">The café</p>
+            <h2 id="visit-title">Pull up a chair. <em>Stay a while.</em></h2>
+          </div>
+          <p class="head-note">Bright tables, a glass counter full of tarts and slices, and warm light for the evening crowd. Bring friends, bring a book, bring an appetite.</p>
+        </div>
+        <div class="gallery">
+          <figure class="g1 reveal"><img src="assets/cafe/modern-cafe-interior-sm.webp" srcset="assets/cafe/modern-cafe-interior-sm.webp 800w, assets/cafe/modern-cafe-interior.webp 1600w" sizes="(max-width: 760px) 92vw, 58vw" width="1600" height="1000" alt="Bright white café interior with plants and pale wood tables" loading="lazy"></figure>
+          <figure class="g2 reveal"><img src="assets/cafe/cafe-warm-lights-sm.webp" srcset="assets/cafe/cafe-warm-lights-sm.webp 450w, assets/cafe/cafe-warm-lights.webp 900w" sizes="(max-width: 760px) 46vw, 28vw" width="900" height="1125" alt="Cosy café corner under warm hanging bulbs" loading="lazy"></figure>
+          <figure class="g3 reveal"><img src="assets/cafe/pastry-display-tarts-sm.webp" srcset="assets/cafe/pastry-display-tarts-sm.webp 700w, assets/cafe/pastry-display-tarts.webp 1400w" sizes="(max-width: 760px) 92vw, 40vw" width="1400" height="1050" alt="Glass display of fruit tarts and chocolate cakes" loading="lazy"></figure>
+          <div class="visit-card g5 reveal">
+            <img src="assets/brand/jokerz-mark.svg" alt="" width="48" height="64">
+            <h3>Opening hours</h3>
+            <dl>
+              <div><dt>Mon – Thu</dt><dd>8:00 – 21:00</dd></div>
+              <div><dt>Fri – Sat</dt><dd>8:00 – 23:00</dd></div>
+              <div><dt>Sunday</dt><dd>9:00 – 21:00</dd></div>
+            </dl>
+            <p class="fine">Sample hours for demo purposes.</p>
+            <a class="btn btn-small" href="#order">Get directions</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FINAL CTA -->
+    <section class="section order" id="order" aria-labelledby="order-title">
+      <div class="wrap order-grid">
+        <div class="order-media reveal">
+          <img src="assets/story/party-table-sm.webp" srcset="assets/story/party-table-sm.webp 700w, assets/story/party-table.webp 1400w" sizes="(max-width: 900px) 92vw, 50vw" width="1400" height="1050" alt="Pastel party table with carousel cake and bunting" loading="lazy">
+          <img class="order-inset" src="assets/story/birthday-candles-sm.webp" srcset="assets/story/birthday-candles-sm.webp 600w, assets/story/birthday-candles.webp 1200w" sizes="(max-width: 900px) 50vw, 20vw" width="1200" height="900" alt="Hand lighting candles on a berry-topped birthday cake" loading="lazy">
+        </div>
+        <div class="order-card reveal">
+          <p class="eyebrow">Let’s make it memorable</p>
+          <h2 id="order-title">Your next celebration starts <em>here.</em></h2>
+          <p>Share a date and an idea — we’ll come back with flavours, designs and a quote.</p>
+          <form class="order-form" data-order-form novalidate>
+            <div class="field"><label for="f-name">Your name</label><input id="f-name" name="name" autocomplete="name" required></div>
+            <div class="field"><label for="f-date">Celebration date</label><input id="f-date" name="date" type="date" required></div>
+            <div class="field full"><label for="f-idea">The idea</label><textarea id="f-idea" name="idea" rows="3" placeholder="e.g. Pastel rainbow cake for 20, with a little jester hat on top"></textarea></div>
+            <button class="btn full" type="submit">Send enquiry</button>
+            <p class="form-note" role="status" aria-live="polite" data-form-status>Demo form — nothing is sent.</p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div class="footer-brand">
+        <img src="assets/brand/jokerz-logo-stacked.svg" alt="Jokerz" width="150" height="119">
+        <p>Bakery · Boba · Café</p>
+      </div>
+      <nav aria-label="Footer">
+        <h3>Explore</h3>
+        <a href="#menu">Menu</a><a href="#celebrations">Celebration cakes</a><a href="#boba">Boba bar</a><a href="#visit">Visit</a>
+      </nav>
+      <div>
+        <h3>Say hello</h3>
+        <p>hello@jokerz.example<br>Instagram · TikTok · Facebook</p>
+        <p class="fine">Contact details are placeholders.</p>
+      </div>
+      <div class="palette" aria-label="Jokerz brand colours">
+        <span style="--c:#59296E" title="#59296E"></span><span style="--c:#FECC00" title="#FECC00"></span><span style="--c:#0BA8BE" title="#0BA8BE"></span><span style="--c:#E85222" title="#E85222"></span><span style="--c:#1AA74F" title="#1AA74F"></span><span style="--c:#EA5699" title="#EA5699"></span>
+      </div>
+    </div>
+    <div class="wrap footer-legal">
+      <p>© 2026 Jokerz. Website concept demo. Photography is licensed stock from Unsplash used for presentation and does not depict actual Jokerz products or locations. <a href="credits.html">Photo credits &amp; asset manifest</a></p>
+    </div>
+  </footer>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,585 @@
+{
+  "layers": {
+    "chocolate": {
+      "name": "layer-chocolate",
+      "file": "assets/cake/layer-chocolate.webp",
+      "width": 900,
+      "height": 501
+    },
+    "vanilla": {
+      "name": "layer-vanilla",
+      "file": "assets/cake/layer-vanilla.webp",
+      "width": 900,
+      "height": 515
+    },
+    "cocoa": {
+      "name": "layer-cocoa",
+      "file": "assets/cake/layer-cocoa.webp",
+      "width": 900,
+      "height": 501
+    },
+    "golden": {
+      "name": "layer-golden",
+      "file": "assets/cake/layer-golden.webp",
+      "width": 900,
+      "height": 515
+    }
+  },
+  "pieces": [
+    {
+      "type": "cherry",
+      "name": "topping-cherry-1",
+      "file": "assets/cake/topping-cherry-1.webp",
+      "width": 245,
+      "height": 242
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-1",
+      "file": "assets/cake/topping-chocolate-1.webp",
+      "width": 71,
+      "height": 76
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-2",
+      "file": "assets/cake/topping-chocolate-2.webp",
+      "width": 26,
+      "height": 35
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-3",
+      "file": "assets/cake/topping-chocolate-3.webp",
+      "width": 29,
+      "height": 35
+    },
+    {
+      "type": "rosette",
+      "name": "topping-rosette-1",
+      "file": "assets/cake/topping-rosette-1.webp",
+      "width": 322,
+      "height": 294
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-4",
+      "file": "assets/cake/topping-chocolate-4.webp",
+      "width": 103,
+      "height": 155
+    },
+    {
+      "type": "cherry",
+      "name": "topping-cherry-2",
+      "file": "assets/cake/topping-cherry-2.webp",
+      "width": 216,
+      "height": 296
+    },
+    {
+      "type": "rosette",
+      "name": "topping-rosette-2",
+      "file": "assets/cake/topping-rosette-2.webp",
+      "width": 318,
+      "height": 268
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-5",
+      "file": "assets/cake/topping-chocolate-5.webp",
+      "width": 108,
+      "height": 95
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-6",
+      "file": "assets/cake/topping-chocolate-6.webp",
+      "width": 51,
+      "height": 39
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-7",
+      "file": "assets/cake/topping-chocolate-7.webp",
+      "width": 67,
+      "height": 83
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-8",
+      "file": "assets/cake/topping-chocolate-8.webp",
+      "width": 45,
+      "height": 84
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-9",
+      "file": "assets/cake/topping-chocolate-9.webp",
+      "width": 28,
+      "height": 87
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-10",
+      "file": "assets/cake/topping-chocolate-10.webp",
+      "width": 28,
+      "height": 26
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-11",
+      "file": "assets/cake/topping-chocolate-11.webp",
+      "width": 80,
+      "height": 81
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-12",
+      "file": "assets/cake/topping-chocolate-12.webp",
+      "width": 53,
+      "height": 55
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-13",
+      "file": "assets/cake/topping-chocolate-13.webp",
+      "width": 67,
+      "height": 76
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-14",
+      "file": "assets/cake/topping-chocolate-14.webp",
+      "width": 78,
+      "height": 73
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-15",
+      "file": "assets/cake/topping-chocolate-15.webp",
+      "width": 54,
+      "height": 47
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-16",
+      "file": "assets/cake/topping-chocolate-16.webp",
+      "width": 45,
+      "height": 71
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-17",
+      "file": "assets/cake/topping-chocolate-17.webp",
+      "width": 84,
+      "height": 79
+    },
+    {
+      "type": "rosette",
+      "name": "topping-rosette-3",
+      "file": "assets/cake/topping-rosette-3.webp",
+      "width": 311,
+      "height": 278
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-18",
+      "file": "assets/cake/topping-chocolate-18.webp",
+      "width": 178,
+      "height": 143
+    },
+    {
+      "type": "cherry",
+      "name": "topping-cherry-3",
+      "file": "assets/cake/topping-cherry-3.webp",
+      "width": 157,
+      "height": 301
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-19",
+      "file": "assets/cake/topping-chocolate-19.webp",
+      "width": 26,
+      "height": 24
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-20",
+      "file": "assets/cake/topping-chocolate-20.webp",
+      "width": 29,
+      "height": 36
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-21",
+      "file": "assets/cake/topping-chocolate-21.webp",
+      "width": 63,
+      "height": 91
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-22",
+      "file": "assets/cake/topping-chocolate-22.webp",
+      "width": 102,
+      "height": 65
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-23",
+      "file": "assets/cake/topping-chocolate-23.webp",
+      "width": 90,
+      "height": 75
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-24",
+      "file": "assets/cake/topping-chocolate-24.webp",
+      "width": 86,
+      "height": 70
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-25",
+      "file": "assets/cake/topping-chocolate-25.webp",
+      "width": 16,
+      "height": 44
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-26",
+      "file": "assets/cake/topping-chocolate-26.webp",
+      "width": 26,
+      "height": 34
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-27",
+      "file": "assets/cake/topping-chocolate-27.webp",
+      "width": 43,
+      "height": 16
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-28",
+      "file": "assets/cake/topping-chocolate-28.webp",
+      "width": 123,
+      "height": 108
+    },
+    {
+      "type": "cherry",
+      "name": "topping-cherry-4",
+      "file": "assets/cake/topping-cherry-4.webp",
+      "width": 225,
+      "height": 250
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-29",
+      "file": "assets/cake/topping-chocolate-29.webp",
+      "width": 59,
+      "height": 77
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-30",
+      "file": "assets/cake/topping-chocolate-30.webp",
+      "width": 50,
+      "height": 58
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-31",
+      "file": "assets/cake/topping-chocolate-31.webp",
+      "width": 76,
+      "height": 69
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-32",
+      "file": "assets/cake/topping-chocolate-32.webp",
+      "width": 52,
+      "height": 38
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-33",
+      "file": "assets/cake/topping-chocolate-33.webp",
+      "width": 150,
+      "height": 165
+    },
+    {
+      "type": "rosette",
+      "name": "topping-rosette-4",
+      "file": "assets/cake/topping-rosette-4.webp",
+      "width": 333,
+      "height": 285
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-34",
+      "file": "assets/cake/topping-chocolate-34.webp",
+      "width": 75,
+      "height": 70
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-35",
+      "file": "assets/cake/topping-chocolate-35.webp",
+      "width": 45,
+      "height": 28
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-36",
+      "file": "assets/cake/topping-chocolate-36.webp",
+      "width": 71,
+      "height": 72
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-37",
+      "file": "assets/cake/topping-chocolate-37.webp",
+      "width": 66,
+      "height": 49
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-38",
+      "file": "assets/cake/topping-chocolate-38.webp",
+      "width": 114,
+      "height": 98
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-39",
+      "file": "assets/cake/topping-chocolate-39.webp",
+      "width": 173,
+      "height": 147
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-40",
+      "file": "assets/cake/topping-chocolate-40.webp",
+      "width": 60,
+      "height": 59
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-41",
+      "file": "assets/cake/topping-chocolate-41.webp",
+      "width": 33,
+      "height": 46
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-42",
+      "file": "assets/cake/topping-chocolate-42.webp",
+      "width": 29,
+      "height": 89
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-43",
+      "file": "assets/cake/topping-chocolate-43.webp",
+      "width": 201,
+      "height": 150
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-44",
+      "file": "assets/cake/topping-chocolate-44.webp",
+      "width": 71,
+      "height": 53
+    },
+    {
+      "type": "rosette",
+      "name": "topping-rosette-5",
+      "file": "assets/cake/topping-rosette-5.webp",
+      "width": 356,
+      "height": 292
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-45",
+      "file": "assets/cake/topping-chocolate-45.webp",
+      "width": 46,
+      "height": 30
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-46",
+      "file": "assets/cake/topping-chocolate-46.webp",
+      "width": 29,
+      "height": 25
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-47",
+      "file": "assets/cake/topping-chocolate-47.webp",
+      "width": 55,
+      "height": 57
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-48",
+      "file": "assets/cake/topping-chocolate-48.webp",
+      "width": 132,
+      "height": 138
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-49",
+      "file": "assets/cake/topping-chocolate-49.webp",
+      "width": 78,
+      "height": 72
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-50",
+      "file": "assets/cake/topping-chocolate-50.webp",
+      "width": 32,
+      "height": 91
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-51",
+      "file": "assets/cake/topping-chocolate-51.webp",
+      "width": 67,
+      "height": 62
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-52",
+      "file": "assets/cake/topping-chocolate-52.webp",
+      "width": 115,
+      "height": 127
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-53",
+      "file": "assets/cake/topping-chocolate-53.webp",
+      "width": 119,
+      "height": 92
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-54",
+      "file": "assets/cake/topping-chocolate-54.webp",
+      "width": 96,
+      "height": 103
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-55",
+      "file": "assets/cake/topping-chocolate-55.webp",
+      "width": 167,
+      "height": 72
+    },
+    {
+      "type": "cherry",
+      "name": "topping-cherry-5",
+      "file": "assets/cake/topping-cherry-5.webp",
+      "width": 116,
+      "height": 95
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-56",
+      "file": "assets/cake/topping-chocolate-56.webp",
+      "width": 58,
+      "height": 85
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-57",
+      "file": "assets/cake/topping-chocolate-57.webp",
+      "width": 226,
+      "height": 159
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-58",
+      "file": "assets/cake/topping-chocolate-58.webp",
+      "width": 68,
+      "height": 97
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-59",
+      "file": "assets/cake/topping-chocolate-59.webp",
+      "width": 31,
+      "height": 30
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-60",
+      "file": "assets/cake/topping-chocolate-60.webp",
+      "width": 44,
+      "height": 52
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-61",
+      "file": "assets/cake/topping-chocolate-61.webp",
+      "width": 52,
+      "height": 57
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-62",
+      "file": "assets/cake/topping-chocolate-62.webp",
+      "width": 50,
+      "height": 25
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-63",
+      "file": "assets/cake/topping-chocolate-63.webp",
+      "width": 130,
+      "height": 86
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-64",
+      "file": "assets/cake/topping-chocolate-64.webp",
+      "width": 33,
+      "height": 37
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-65",
+      "file": "assets/cake/topping-chocolate-65.webp",
+      "width": 99,
+      "height": 69
+    },
+    {
+      "type": "chocolate",
+      "name": "topping-chocolate-66",
+      "file": "assets/cake/topping-chocolate-66.webp",
+      "width": 29,
+      "height": 28
+    }
+  ],
+  "layered": {
+    "name": "black-forest-layered",
+    "file": "assets/cake/black-forest-layered.webp",
+    "width": 1100,
+    "height": 1062
+  },
+  "frosted": {
+    "name": "black-forest-frosted",
+    "file": "assets/cake/black-forest-frosted.webp",
+    "width": 900,
+    "height": 860
+  },
+  "frostedPlain": {
+    "file": "assets/cake/black-forest-frosted-plain.webp",
+    "width": 900,
+    "height": 860,
+    "surface": {
+      "cx": 452,
+      "cy": 276,
+      "rx": 414,
+      "ry": 172
+    }
+  }
+}

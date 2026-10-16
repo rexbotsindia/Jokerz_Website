@@ -1,0 +1,808 @@
+﻿[
+    {
+        "name":  "hero-signature-cake",
+        "folder":  "hero",
+        "use":  "Hero, main image",
+        "alt":  "Mint-iced celebration cake crowned with blush-pink buttercream rosettes",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/pink-and-white-floral-cake-g5bgYkKa8y0",
+        "photographer":  "David Holifield",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by David Holifield on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/hero/hero-signature-cake.webp",
+                          "width":  1200,
+                          "height":  1500,
+                          "bytes":  172138
+                      },
+                      {
+                          "path":  "assets/hero/hero-signature-cake-sm.webp",
+                          "width":  600,
+                          "height":  750,
+                          "bytes":  63782
+                      }
+                  ]
+    },
+    {
+        "name":  "pink-drip-celebration-cake",
+        "folder":  "food",
+        "use":  "Celebrations feature",
+        "alt":  "Pink drip cake topped with meringue kisses on a white stand",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/pink-and-white-cake-on-white-ceramic-plate-QNyRp21hb5I",
+        "photographer":  "Katie Rosario",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Katie Rosario on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/pink-drip-celebration-cake.webp",
+                          "width":  1100,
+                          "height":  1375,
+                          "bytes":  149114
+                      },
+                      {
+                          "path":  "assets/food/pink-drip-celebration-cake-sm.webp",
+                          "width":  550,
+                          "height":  688,
+                          "bytes":  56194
+                      }
+                  ]
+    },
+    {
+        "name":  "four-tier-rose-cake",
+        "folder":  "food",
+        "use":  "Homepage celebrate chapter - full-screen zoom-out hero",
+        "alt":  "Four-tier white celebration cake dressed with soft pink and peach roses",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/4-layered-fondant-cake-on-table-fXAuCMEYGY4",
+        "photographer":  "Jason Leung",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Jason Leung on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/four-tier-rose-cake.webp",
+                          "width":  1600,
+                          "height":  2000,
+                          "bytes":  234556
+                      },
+                      {
+                          "path":  "assets/food/four-tier-rose-cake-sm.webp",
+                          "width":  800,
+                          "height":  1000,
+                          "bytes":  85444
+                      }
+                  ]
+    },
+    {
+        "name":  "lavender-butterfly-cake",
+        "folder":  "food",
+        "use":  "Homepage celebrate chapter - full-screen zoom-out hero",
+        "alt":  "Lavender buttercream cake decorated with violet butterflies and pearls, surrounded by chocolate truffles",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/l9EtbJ9r8Q0",
+        "photographer":  "Fernando Dantas",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Fernando Dantas on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/lavender-butterfly-cake.webp",
+                          "width":  1920,
+                          "height":  1200,
+                          "bytes":  335840
+                      },
+                      {
+                          "path":  "assets/food/lavender-butterfly-cake-sm.webp",
+                          "width":  960,
+                          "height":  600,
+                          "bytes":  119476
+                      }
+                  ]
+    },
+    {
+        "name":  "rainbow-layer-cake",
+        "folder":  "food",
+        "use":  "Menu card - cakes",
+        "alt":  "Slice of rainbow layer cake showing bright sponge layers",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/white-pink-and-yellow-cake-GQvNc4bDRYw",
+        "photographer":  "Anirban Sengupta",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Anirban Sengupta on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/rainbow-layer-cake.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  142218
+                      },
+                      {
+                          "path":  "assets/food/rainbow-layer-cake-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  51756
+                      }
+                  ]
+    },
+    {
+        "name":  "chocolate-cherry-layer-cake",
+        "folder":  "food",
+        "use":  "Menu card - cakes",
+        "alt":  "Three-layer chocolate cake with cream and glossy dark cherries",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/chocolate-cake-with-cherries-and-cream-6jHpcBPw7i8",
+        "photographer":  "Jacob Thomas",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Jacob Thomas on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/chocolate-cherry-layer-cake.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  212096
+                      },
+                      {
+                          "path":  "assets/food/chocolate-cherry-layer-cake-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  63888
+                      }
+                  ]
+    },
+    {
+        "name":  "strawberry-cream-cake",
+        "folder":  "food",
+        "use":  "Menu card - cakes",
+        "alt":  "Strawberry and cream sponge slice on a white plate",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/strawberry-cake-on-white-ceramic-plate-Rj1IWO8IozE",
+        "photographer":  "Aneta Voborilova",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Aneta Voborilova on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/strawberry-cream-cake.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  146062
+                      },
+                      {
+                          "path":  "assets/food/strawberry-cream-cake-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  52566
+                      }
+                  ]
+    },
+    {
+        "name":  "floral-birthday-cake",
+        "folder":  "food",
+        "use":  "Celebrations feature",
+        "alt":  "Cream birthday cake decorated with fresh flowers and a Happy Birthday topper",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/a-birthday-cake-decorated-with-flowers-KU4aJwiI_Ek",
+        "photographer":  "Nataliya Melnychuk",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Nataliya Melnychuk on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/floral-birthday-cake.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  143782
+                      },
+                      {
+                          "path":  "assets/food/floral-birthday-cake-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  41334
+                      }
+                  ]
+    },
+    {
+        "name":  "three-tier-floral-cake",
+        "folder":  "food",
+        "use":  "Celebrations feature",
+        "alt":  "Three-tier white cake with pink fresh flowers beside champagne flutes",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/three-tier-cake-with-pink-fresh-flowers-on-table-beside-two-champagne-flute-glasses-53nLF9woXE0",
+        "photographer":  "Frank Zhang",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Frank Zhang on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/three-tier-floral-cake.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  82706
+                      },
+                      {
+                          "path":  "assets/food/three-tier-floral-cake-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  34152
+                      }
+                  ]
+    },
+    {
+        "name":  "teal-cupcakes",
+        "folder":  "food",
+        "use":  "Menu card - sweets",
+        "alt":  "Row of cupcakes with soft teal icing and sprinkles",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/pGM4sjt_BdQ",
+        "photographer":  "Brooke Lark",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Brooke Lark on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/teal-cupcakes.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  99694
+                      },
+                      {
+                          "path":  "assets/food/teal-cupcakes-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  33460
+                      }
+                  ]
+    },
+    {
+        "name":  "lemon-cupcake",
+        "folder":  "food",
+        "use":  "Boba / colour story accent",
+        "alt":  "Cupcake with swirled cream in a butter-yellow holder on yellow",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/Ltv7a5m8i4c",
+        "photographer":  "Cristina Matos-Albers",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Cristina Matos-Albers on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/lemon-cupcake.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  54094
+                      },
+                      {
+                          "path":  "assets/food/lemon-cupcake-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  19762
+                      }
+                  ]
+    },
+    {
+        "name":  "pastel-macarons",
+        "folder":  "food",
+        "use":  "Menu card - sweets",
+        "alt":  "Stack of yellow, pink and green macarons",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/i5BQNYI0jIU",
+        "photographer":  "Divani",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Divani on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/pastel-macarons.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  99258
+                      },
+                      {
+                          "path":  "assets/food/pastel-macarons-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  31228
+                      }
+                  ]
+    },
+    {
+        "name":  "macarons-on-blush",
+        "folder":  "food",
+        "use":  "Hero floating card",
+        "alt":  "Pastel macarons scattered on a blush-pink surface",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/j06IIAmm5mQ",
+        "photographer":  "Serghey Savchuk",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Serghey Savchuk on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/macarons-on-blush.webp",
+                          "width":  900,
+                          "height":  900,
+                          "bytes":  92742
+                      },
+                      {
+                          "path":  "assets/food/macarons-on-blush-sm.webp",
+                          "width":  450,
+                          "height":  450,
+                          "bytes":  30544
+                      }
+                  ]
+    },
+    {
+        "name":  "artisan-croissants",
+        "folder":  "food",
+        "use":  "Menu card - pastries",
+        "alt":  "Golden laminated croissants piled together",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/a-bunch-of-croissants-that-are-on-a-table-sqkXyyj4WdE",
+        "photographer":  "Conor Brown",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Conor Brown on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/artisan-croissants.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  272114
+                      },
+                      {
+                          "path":  "assets/food/artisan-croissants-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  88808
+                      }
+                  ]
+    },
+    {
+        "name":  "croissant-on-plate",
+        "folder":  "food",
+        "use":  "Three counters - bakery",
+        "alt":  "A single flaky croissant on a white saucer",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/baked-pastry-on-white-ceramic-saucer-E5Yb_0jua2U",
+        "photographer":  "Kaley Dykstra",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Kaley Dykstra on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/croissant-on-plate.webp",
+                          "width":  1200,
+                          "height":  900,
+                          "bytes":  79218
+                      },
+                      {
+                          "path":  "assets/food/croissant-on-plate-sm.webp",
+                          "width":  600,
+                          "height":  450,
+                          "bytes":  34770
+                      }
+                  ]
+    },
+    {
+        "name":  "chocolate-chip-cookies",
+        "folder":  "food",
+        "use":  "Menu card - sweets",
+        "alt":  "Close-up of chewy chocolate chip cookies",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/close-up-photo-of-baked-cookies-OfdDiqx8Cz8",
+        "photographer":  "Jennifer Pallian",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Jennifer Pallian on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/chocolate-chip-cookies.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  270910
+                      },
+                      {
+                          "path":  "assets/food/chocolate-chip-cookies-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  81802
+                      }
+                  ]
+    },
+    {
+        "name":  "brown-sugar-boba",
+        "folder":  "food",
+        "use":  "Menu card - boba; hero floating card",
+        "alt":  "Brown-sugar milk tea with tapioca pearls in a tall clear cup",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/clear-plastic-container-dHQQv-BKTjo",
+        "photographer":  "Orimi Protograph",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Orimi Protograph on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/brown-sugar-boba.webp",
+                          "width":  1000,
+                          "height":  1000,
+                          "bytes":  74804
+                      },
+                      {
+                          "path":  "assets/food/brown-sugar-boba-sm.webp",
+                          "width":  500,
+                          "height":  500,
+                          "bytes":  32374
+                      }
+                  ]
+    },
+    {
+        "name":  "boba-in-bloom",
+        "folder":  "food",
+        "use":  "Boba bar feature",
+        "alt":  "Hand holding a milky bubble tea against spring blossoms",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/hand-holding-a-refreshing-bubble-tea-OFPGkd2swUM",
+        "photographer":  "Malcolm Broström",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Malcolm Broström on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/boba-in-bloom.webp",
+                          "width":  1000,
+                          "height":  1250,
+                          "bytes":  105868
+                      },
+                      {
+                          "path":  "assets/food/boba-in-bloom-sm.webp",
+                          "width":  500,
+                          "height":  625,
+                          "bytes":  46792
+                      }
+                  ]
+    },
+    {
+        "name":  "milk-tea-jars",
+        "folder":  "food",
+        "use":  "Three counters - boba",
+        "alt":  "Two glass jars of pearl milk tea with straws on a pale wood counter",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/two-clear-glass-jars-with-straws-P_wPicZYoPI",
+        "photographer":  "Rosalind Chang",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Rosalind Chang on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/milk-tea-jars.webp",
+                          "width":  1200,
+                          "height":  900,
+                          "bytes":  131770
+                      },
+                      {
+                          "path":  "assets/food/milk-tea-jars-sm.webp",
+                          "width":  600,
+                          "height":  450,
+                          "bytes":  27188
+                      }
+                  ]
+    },
+    {
+        "name":  "iced-latte-pour",
+        "folder":  "food",
+        "use":  "Boba bar feature secondary",
+        "alt":  "Milk pouring into a glass of iced coffee",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/02O1bXB_fgk",
+        "photographer":  "Empreinte",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Empreinte on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/food/iced-latte-pour.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  56570
+                      },
+                      {
+                          "path":  "assets/food/iced-latte-pour-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  24568
+                      }
+                  ]
+    },
+    {
+        "name":  "pastry-display-tarts",
+        "folder":  "cafe",
+        "use":  "Cafe atmosphere gallery",
+        "alt":  "Glass display of fruit tarts and chocolate cakes",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/bakery-display-with-fruit-tarts-1WmlAiYgnoI",
+        "photographer":  "Ulysse Pointcheval",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Ulysse Pointcheval on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/cafe/pastry-display-tarts.webp",
+                          "width":  1400,
+                          "height":  1050,
+                          "bytes":  151676
+                      },
+                      {
+                          "path":  "assets/cafe/pastry-display-tarts-sm.webp",
+                          "width":  700,
+                          "height":  525,
+                          "bytes":  59504
+                      }
+                  ]
+    },
+    {
+        "name":  "modern-cafe-interior",
+        "folder":  "cafe",
+        "use":  "Cafe atmosphere lead",
+        "alt":  "Bright white cafe interior with plants and pale wood tables",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/green-potted-plants-on-white-table-pIO8zFpgL_s",
+        "photographer":  "Jonathan Borba",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Jonathan Borba on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/cafe/modern-cafe-interior.webp",
+                          "width":  1600,
+                          "height":  1000,
+                          "bytes":  310272
+                      },
+                      {
+                          "path":  "assets/cafe/modern-cafe-interior-sm.webp",
+                          "width":  800,
+                          "height":  500,
+                          "bytes":  109980
+                      }
+                  ]
+    },
+    {
+        "name":  "cafe-counter-bright",
+        "folder":  "cafe",
+        "use":  "Three counters - cafe",
+        "alt":  "Airy café with arched windows, pendant lights and a curved wooden counter",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/modern-coffee-shop-interior-with-curved-counter-ZZxmc66SjfM",
+        "photographer":  "Keghan Crossland",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Keghan Crossland on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/cafe/cafe-counter-bright.webp",
+                          "width":  1200,
+                          "height":  900,
+                          "bytes":  268414
+                      },
+                      {
+                          "path":  "assets/cafe/cafe-counter-bright-sm.webp",
+                          "width":  600,
+                          "height":  450,
+                          "bytes":  60886
+                      }
+                  ]
+    },
+    {
+        "name":  "cafe-warm-lights",
+        "folder":  "cafe",
+        "use":  "Cafe atmosphere gallery",
+        "alt":  "Cosy cafe corner under warm hanging bulbs",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/cafe-interior-with-hanging-bulbs-and-table-VobvKmG-StA",
+        "photographer":  "Clifford",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Clifford on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/cafe/cafe-warm-lights.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  206098
+                      },
+                      {
+                          "path":  "assets/cafe/cafe-warm-lights-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  58950
+                      }
+                  ]
+    },
+    {
+        "name":  "cake-decoration-process",
+        "folder":  "story",
+        "use":  "Craft story lead",
+        "alt":  "Pastry chef smoothing pink icing on a layer cake",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/a-chef-decorating-a-cake-with-pink-icing-eR3LPfuDzGk",
+        "photographer":  "Mick Haupt",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Mick Haupt on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/story/cake-decoration-process.webp",
+                          "width":  1000,
+                          "height":  1250,
+                          "bytes":  97248
+                      },
+                      {
+                          "path":  "assets/story/cake-decoration-process-sm.webp",
+                          "width":  500,
+                          "height":  625,
+                          "bytes":  34922
+                      }
+                  ]
+    },
+    {
+        "name":  "teal-cake-finishing",
+        "folder":  "story",
+        "use":  "Craft story",
+        "alt":  "Teal buttercream cake being finished with sugar decorations",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/round-blue-cake-ttY5ZD2O3h8",
+        "photographer":  "Holly Stratton",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Holly Stratton on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/story/teal-cake-finishing.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  114246
+                      },
+                      {
+                          "path":  "assets/story/teal-cake-finishing-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  42034
+                      }
+                  ]
+    },
+    {
+        "name":  "piping-buttercream",
+        "folder":  "story",
+        "use":  "Craft story",
+        "alt":  "Piping bag adding buttercream rosettes to a chocolate cake",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/person-holding-white-ice-cream-cone-with-brown-and-white-round-cake-5K5Nc3AGF1w",
+        "photographer":  "American Heritage Chocolate",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by American Heritage Chocolate on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/story/piping-buttercream.webp",
+                          "width":  900,
+                          "height":  1125,
+                          "bytes":  83942
+                      },
+                      {
+                          "path":  "assets/story/piping-buttercream-sm.webp",
+                          "width":  450,
+                          "height":  562,
+                          "bytes":  29122
+                      }
+                  ]
+    },
+    {
+        "name":  "pastry-dough-prep",
+        "folder":  "story",
+        "use":  "Craft story",
+        "alt":  "Hands kneading dough beside a rolling pin",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/tOYiQxF9-Ys",
+        "photographer":  "Nadya Spetnitskaya",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Nadya Spetnitskaya on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/story/pastry-dough-prep.webp",
+                          "width":  1000,
+                          "height":  1250,
+                          "bytes":  175150
+                      },
+                      {
+                          "path":  "assets/story/pastry-dough-prep-sm.webp",
+                          "width":  500,
+                          "height":  625,
+                          "bytes":  60394
+                      }
+                  ]
+    },
+    {
+        "name":  "birthday-candles",
+        "folder":  "story",
+        "use":  "Celebrations / order steps",
+        "alt":  "Hand lighting candles on a berry-topped birthday cake",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/birthday-cake-with-lit-candles-d8s13D29QiE",
+        "photographer":  "Aneta Pawlik",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Aneta Pawlik on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/story/birthday-candles.webp",
+                          "width":  1200,
+                          "height":  900,
+                          "bytes":  126314
+                      },
+                      {
+                          "path":  "assets/story/birthday-candles-sm.webp",
+                          "width":  600,
+                          "height":  450,
+                          "bytes":  45282
+                      }
+                  ]
+    },
+    {
+        "name":  "party-table",
+        "folder":  "story",
+        "use":  "Final call to action",
+        "alt":  "Pastel party table with carousel cake and bunting",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/white-and-pink-carousel-table-decor-XbWsnr1pwrQ",
+        "photographer":  "Toa Heftiba",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Toa Heftiba on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/story/party-table.webp",
+                          "width":  1400,
+                          "height":  1050,
+                          "bytes":  130782
+                      },
+                      {
+                          "path":  "assets/story/party-table-sm.webp",
+                          "width":  700,
+                          "height":  525,
+                          "bytes":  51610
+                      }
+                  ]
+    },
+    {
+        "name":  "pink-frosting-texture",
+        "folder":  "brand",
+        "use":  "Decorative texture band",
+        "alt":  "Swirls of smooth pink frosting",
+        "type":  "Sourced photography",
+        "source":  "https://unsplash.com/photos/pink-frosting-swirls-with-shadows-5djh4Yb-2zI",
+        "photographer":  "Alexander Grey",
+        "license":  "Unsplash License (https://unsplash.com/license)",
+        "attribution":  "Photo by Alexander Grey on Unsplash (not required by licence; credited voluntarily)",
+        "optimization":  "Cropped server-side to target aspect, WebP q74, 1x + half-size variants",
+        "files":  [
+                      {
+                          "path":  "assets/brand/pink-frosting-texture.webp",
+                          "width":  1600,
+                          "height":  900,
+                          "bytes":  150786
+                      },
+                      {
+                          "path":  "assets/brand/pink-frosting-texture-sm.webp",
+                          "width":  800,
+                          "height":  450,
+                          "bytes":  62130
+                      }
+                  ]
+    }
+]

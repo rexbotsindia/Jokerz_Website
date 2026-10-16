@@ -1,0 +1,818 @@
+[
+  {
+    "name": "boba-jokerz-cups",
+    "use": "Hero sticker, boba chapter lead",
+    "alt": "Two Jokerz-branded boba milk teas with tapioca pearls splashing",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/boba-BJRwKqAy.png",
+    "original": "2048x2048 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/boba-jokerz-cups.webp",
+        "width": 1100,
+        "height": 1100,
+        "bytes": 114624
+      },
+      {
+        "path": "assets/jokerz/boba-jokerz-cups-sm.webp",
+        "width": 550,
+        "height": 550,
+        "bytes": 47802
+      }
+    ]
+  },
+  {
+    "name": "soft-serve-jokerz",
+    "use": "Hero sticker, scoops row",
+    "alt": "Soft-serve ice cream in a Jokerz-branded cup",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/soft%20scope-DEUHZQN5.png",
+    "original": "1024x1067 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/soft-serve-jokerz.webp",
+        "width": 800,
+        "height": 834,
+        "bytes": 59198
+      },
+      {
+        "path": "assets/jokerz/soft-serve-jokerz-sm.webp",
+        "width": 400,
+        "height": 417,
+        "bytes": 26122
+      }
+    ]
+  },
+  {
+    "name": "hard-scoop-jokerz",
+    "use": "Scoops row",
+    "alt": "Hard-scoop ice cream in a Jokerz-branded tub",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/hard%20scoop-CcokFxBu.png",
+    "original": "977x953 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/hard-scoop-jokerz.webp",
+        "width": 800,
+        "height": 780,
+        "bytes": 72938
+      },
+      {
+        "path": "assets/jokerz/hard-scoop-jokerz-sm.webp",
+        "width": 400,
+        "height": 390,
+        "bytes": 29274
+      }
+    ]
+  },
+  {
+    "name": "sundae",
+    "use": "Scoops row",
+    "alt": "Strawberry sundae with whipped cream",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Sundaes-h9gEm77d.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/sundae.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 16228
+      },
+      {
+        "path": "assets/jokerz/sundae-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 8558
+      }
+    ]
+  },
+  {
+    "name": "classic-milk-tea",
+    "use": "Boba chapter",
+    "alt": "Caramel-striped milk tea with tapioca pearls",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/brown%20sugar%20boba-BUW8Exyn.png",
+    "original": "540x462 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/classic-milk-tea.webp",
+        "width": 540,
+        "height": 462,
+        "bytes": 13376
+      },
+      {
+        "path": "assets/jokerz/classic-milk-tea-sm.webp",
+        "width": 270,
+        "height": 231,
+        "bytes": 7034
+      }
+    ]
+  },
+  {
+    "name": "taro-milk-tea",
+    "use": "Boba chapter",
+    "alt": "Lilac taro milk tea with tapioca pearls",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Taro%20Milk%20Tea-DVE-yISN.png",
+    "original": "540x462 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/taro-milk-tea.webp",
+        "width": 540,
+        "height": 462,
+        "bytes": 11570
+      },
+      {
+        "path": "assets/jokerz/taro-milk-tea-sm.webp",
+        "width": 270,
+        "height": 231,
+        "bytes": 6420
+      }
+    ]
+  },
+  {
+    "name": "black-forest-cake",
+    "use": "Signature cakes",
+    "alt": "Black Forest cake with cherries and chocolate shavings on a stand",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/black-forst-ixZk-Z42.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/black-forest-cake.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 22114
+      },
+      {
+        "path": "assets/jokerz/black-forest-cake-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 10258
+      }
+    ]
+  },
+  {
+    "name": "butterscotch-cake",
+    "use": "Signature cakes",
+    "alt": "Butterscotch cake with caramel drip on a stand",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/butterscotchaa-BhhPTGcR.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/butterscotch-cake.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 13162
+      },
+      {
+        "path": "assets/jokerz/butterscotch-cake-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 8020
+      }
+    ]
+  },
+  {
+    "name": "chocolate-mousse-cake",
+    "use": "Signature cakes",
+    "alt": "Chocolate mousse cake with glossy glaze",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Choco-moussee-l03nzt4e.png",
+    "original": "578x431 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/chocolate-mousse-cake.webp",
+        "width": 578,
+        "height": 431,
+        "bytes": 13996
+      },
+      {
+        "path": "assets/jokerz/chocolate-mousse-cake-sm.webp",
+        "width": 289,
+        "height": 216,
+        "bytes": 7094
+      }
+    ]
+  },
+  {
+    "name": "pineapple-cake",
+    "use": "Signature cakes",
+    "alt": "Pineapple cake with golden glaze and cream rosettes",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/pineapple-BFnWZ1RN.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/pineapple-cake.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 18252
+      },
+      {
+        "path": "assets/jokerz/pineapple-cake-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 9364
+      }
+    ]
+  },
+  {
+    "name": "mango-cake",
+    "use": "Signature cakes",
+    "alt": "Mango cake topped with fresh fruit and mango glaze",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/mango-C2CQgnxl.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/mango-cake.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 12686
+      },
+      {
+        "path": "assets/jokerz/mango-cake-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 7662
+      }
+    ]
+  },
+  {
+    "name": "rasamalai-cake",
+    "use": "Signature cakes",
+    "alt": "Rasamalai cake with saffron cream and pistachio",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Rasmalai%20cake-CZ5zTbCT.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/rasamalai-cake.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 12062
+      },
+      {
+        "path": "assets/jokerz/rasamalai-cake-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 6952
+      }
+    ]
+  },
+  {
+    "name": "custom-cake",
+    "use": "Celebrate chapter",
+    "alt": "Two-tier custom wedding cake with couple topper and pink ruffles",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Custom%20cake-CpjcMPvu.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/custom-cake.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 30138
+      },
+      {
+        "path": "assets/jokerz/custom-cake-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 13460
+      }
+    ]
+  },
+  {
+    "name": "assorted-cake-slices",
+    "use": "Celebrate chapter",
+    "alt": "Platter of assorted cake slices",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/cakes%20-DmSpbOFH.png",
+    "original": "2000x1277 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/assorted-cake-slices.webp",
+        "width": 1000,
+        "height": 639,
+        "bytes": 70890
+      },
+      {
+        "path": "assets/jokerz/assorted-cake-slices-sm.webp",
+        "width": 500,
+        "height": 319,
+        "bytes": 24064
+      }
+    ]
+  },
+  {
+    "name": "strawberry-crepe",
+    "use": "Crepes row",
+    "alt": "Strawberry crepe with chocolate drizzle",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/crepe-DGM8h-Bm.png",
+    "original": "2000x1405 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/strawberry-crepe.webp",
+        "width": 900,
+        "height": 632,
+        "bytes": 63270
+      },
+      {
+        "path": "assets/jokerz/strawberry-crepe-sm.webp",
+        "width": 450,
+        "height": 316,
+        "bytes": 25088
+      }
+    ]
+  },
+  {
+    "name": "nutella-crepe",
+    "use": "Crepes row",
+    "alt": "Folded Nutella crepe",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Nutella%20Crepe-BowRVFYB.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/nutella-crepe.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 28912
+      },
+      {
+        "path": "assets/jokerz/nutella-crepe-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 12176
+      }
+    ]
+  },
+  {
+    "name": "banana-chocolate-crepe",
+    "use": "Crepes row",
+    "alt": "Banana chocolate crepe",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/banana%20crepe-YaeOJsDS.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/banana-chocolate-crepe.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 39822
+      },
+      {
+        "path": "assets/jokerz/banana-chocolate-crepe-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 16230
+      }
+    ]
+  },
+  {
+    "name": "oreo-crumble-crepe",
+    "use": "Crepes row",
+    "alt": "Oreo crumble crepe with chocolate drizzle",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/oreo%20crumble%20crepe-BdqWSTCf.png",
+    "original": "612x408 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/oreo-crumble-crepe.webp",
+        "width": 612,
+        "height": 408,
+        "bytes": 24994
+      },
+      {
+        "path": "assets/jokerz/oreo-crumble-crepe-sm.webp",
+        "width": 306,
+        "height": 204,
+        "bytes": 11898
+      }
+    ]
+  },
+  {
+    "name": "cafe-latte",
+    "use": "Dawn chapter",
+    "alt": "Cafe latte with leaf latte art",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/cafe%20latte-DpzKESkE.png",
+    "original": "6044x3741 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/cafe-latte.webp",
+        "width": 900,
+        "height": 557,
+        "bytes": 30934
+      },
+      {
+        "path": "assets/jokerz/cafe-latte-sm.webp",
+        "width": 450,
+        "height": 279,
+        "bytes": 12686
+      }
+    ]
+  },
+  {
+    "name": "mocha",
+    "use": "Dawn chapter",
+    "alt": "Mocha topped with whipped cream and chocolate",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/mocah-D4DSYDjE.png",
+    "original": "500x500 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/mocha.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 24030
+      },
+      {
+        "path": "assets/jokerz/mocha-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 11190
+      }
+    ]
+  },
+  {
+    "name": "espresso",
+    "use": "Dawn chapter",
+    "alt": "Espresso cup with coffee beans on the saucer",
+    "kind": "cutout",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/espresso-tk_CUzjp.png",
+    "original": "612x408 png (transparent)",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/espresso.webp",
+        "width": 612,
+        "height": 408,
+        "bytes": 15672
+      },
+      {
+        "path": "assets/jokerz/espresso-sm.webp",
+        "width": 306,
+        "height": 204,
+        "bytes": 7766
+      }
+    ]
+  },
+  {
+    "name": "black-forest-pastry",
+    "use": "Pastry counter",
+    "alt": "Black Forest pastry slice with a cherry on top",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/BlackForest%20Pastry-nWMCbxy_.png",
+    "original": "600x600 webp",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/black-forest-pastry.webp",
+        "width": 600,
+        "height": 600,
+        "bytes": 41752
+      },
+      {
+        "path": "assets/jokerz/black-forest-pastry-sm.webp",
+        "width": 300,
+        "height": 300,
+        "bytes": 13210
+      }
+    ]
+  },
+  {
+    "name": "strawberry-pastry",
+    "use": "Pastry counter",
+    "alt": "Strawberry pastry on a plate against lavender",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/stawberry%20pastry-Cg2rl2l-.webp",
+    "original": "1080x1080 webp",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/strawberry-pastry.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 17048
+      },
+      {
+        "path": "assets/jokerz/strawberry-pastry-sm.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 7658
+      }
+    ]
+  },
+  {
+    "name": "butterscotch-pastry",
+    "use": "Pastry counter",
+    "alt": "Butterscotch pastry with caramel crunch",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Butterscotch%20Pastry-C0CQssuT.jpg",
+    "original": "1200x1200 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/butterscotch-pastry.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 48020
+      },
+      {
+        "path": "assets/jokerz/butterscotch-pastry-sm.webp",
+        "width": 400,
+        "height": 400,
+        "bytes": 19588
+      }
+    ]
+  },
+  {
+    "name": "pineapple-pastry",
+    "use": "Pastry counter",
+    "alt": "Pineapple pastry with a cherry on top",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Pine%20apple%20pastry-BNqrQMeT.jpg",
+    "original": "2048x2560 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/pineapple-pastry.webp",
+        "width": 800,
+        "height": 1000,
+        "bytes": 45886
+      },
+      {
+        "path": "assets/jokerz/pineapple-pastry-sm.webp",
+        "width": 400,
+        "height": 500,
+        "bytes": 16966
+      }
+    ]
+  },
+  {
+    "name": "mango-pastry",
+    "use": "Pastry counter",
+    "alt": "Mango pastry slice with a cherry",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/Mango%20pastry-3UaUu-RO.jpg",
+    "original": "500x500 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/mango-pastry.webp",
+        "width": 500,
+        "height": 500,
+        "bytes": 11554
+      },
+      {
+        "path": "assets/jokerz/mango-pastry-sm.webp",
+        "width": 250,
+        "height": 250,
+        "bytes": 4674
+      }
+    ]
+  },
+  {
+    "name": "vanilla-pastry",
+    "use": "Pastry counter",
+    "alt": "Vanilla pastry with strawberry",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/vanilla%20ckae-DJAnbT10.jpg",
+    "original": "360x360 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/vanilla-pastry.webp",
+        "width": 360,
+        "height": 360,
+        "bytes": 6304
+      },
+      {
+        "path": "assets/jokerz/vanilla-pastry-sm.webp",
+        "width": 180,
+        "height": 180,
+        "bytes": 2166
+      }
+    ]
+  },
+  {
+    "name": "catering-wedding",
+    "use": "Celebrate grid",
+    "alt": "Outdoor wedding reception set with lanterns and flowers",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/wedding-DAGF5T0z.jpg",
+    "original": "1000x571 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/catering-wedding.webp",
+        "width": 1000,
+        "height": 571,
+        "bytes": 98754
+      },
+      {
+        "path": "assets/jokerz/catering-wedding-sm.webp",
+        "width": 500,
+        "height": 286,
+        "bytes": 35470
+      }
+    ]
+  },
+  {
+    "name": "catering-corporate",
+    "use": "Celebrate grid",
+    "alt": "Corporate event hall with guests at tables",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/corporate%20eventss-U6i9frgv.jpg",
+    "original": "1000x562 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/catering-corporate.webp",
+        "width": 1000,
+        "height": 562,
+        "bytes": 62044
+      },
+      {
+        "path": "assets/jokerz/catering-corporate-sm.webp",
+        "width": 500,
+        "height": 281,
+        "bytes": 25350
+      }
+    ]
+  },
+  {
+    "name": "catering-birthday",
+    "use": "Celebrate grid",
+    "alt": "Birthday party table with balloons and cake",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/birthday-BOicPd-k.jpg",
+    "original": "1000x668 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/catering-birthday.webp",
+        "width": 1000,
+        "height": 668,
+        "bytes": 81288
+      },
+      {
+        "path": "assets/jokerz/catering-birthday-sm.webp",
+        "width": 500,
+        "height": 334,
+        "bytes": 33200
+      }
+    ]
+  },
+  {
+    "name": "catering-community",
+    "use": "Celebrate grid",
+    "alt": "Friends celebrating together at a party",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/community%20parties-5aMdqW6A.jpg",
+    "original": "1000x667 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/catering-community.webp",
+        "width": 1000,
+        "height": 667,
+        "bytes": 95522
+      },
+      {
+        "path": "assets/jokerz/catering-community-sm.webp",
+        "width": 500,
+        "height": 334,
+        "bytes": 36520
+      }
+    ]
+  },
+  {
+    "name": "dessert-table",
+    "use": "Celebrate grid",
+    "alt": "Dessert table with tiers of mini desserts",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/desser1-BQQC4e_M.jpeg",
+    "original": "720x720 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/dessert-table.webp",
+        "width": 720,
+        "height": 720,
+        "bytes": 75640
+      },
+      {
+        "path": "assets/jokerz/dessert-table-sm.webp",
+        "width": 360,
+        "height": 360,
+        "bytes": 27168
+      }
+    ]
+  },
+  {
+    "name": "dessert-cups",
+    "use": "Celebrate grid",
+    "alt": "Rows of individual dessert cups",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/dessert%202-CHA6z_77.jpg",
+    "original": "1000x667 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/dessert-cups.webp",
+        "width": 1000,
+        "height": 667,
+        "bytes": 52908
+      },
+      {
+        "path": "assets/jokerz/dessert-cups-sm.webp",
+        "width": 500,
+        "height": 334,
+        "bytes": 21740
+      }
+    ]
+  },
+  {
+    "name": "dessert-cupcakes",
+    "use": "Celebrate grid",
+    "alt": "Tray of frosted cupcakes",
+    "kind": "photo",
+    "type": "Client-supplied image (jokerzbakery.com)",
+    "source": "https://jokerzbakery.com/assets/dessert5-DY_J2Mj3.jpg",
+    "original": "1000x668 jpeg",
+    "license": "Supplied by the client via their live website; individual image provenance not verified by us",
+    "files": [
+      {
+        "path": "assets/jokerz/dessert-cupcakes.webp",
+        "width": 1000,
+        "height": 668,
+        "bytes": 62822
+      },
+      {
+        "path": "assets/jokerz/dessert-cupcakes-sm.webp",
+        "width": 500,
+        "height": 334,
+        "bytes": 28464
+      }
+    ]
+  }
+]

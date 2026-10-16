@@ -1,0 +1,12 @@
+# dependencies & builds
+node_modules/
+homepage/dist/
+
+# generated: copied from ../public/assets by `npm run sync-assets` (predev/prebuild)
+homepage/public/assets/
+
+# local tooling / OS noise
+.claude/
+.DS_Store
+Thumbs.db
+*.log
