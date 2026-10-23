@@ -3,6 +3,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { SplitText } from 'gsap/SplitText';
 import Lenis from 'lenis';
+const BASE = import.meta.env.BASE_URL; // '/' locally, '/Jokerz_Website/' on GitHub Pages
 import { renderPrices } from './prices.js';
 import { buildCake } from './cake.js';
 
@@ -335,12 +336,12 @@ function colour(pinIt) {
 /* Boba tabs — tapped drink slides in from the left, its neighbour from the right */
 /* ------------------------------------------------------------------ */
 const DRINKS = [
-  { key: 'classic', name: 'Classic Milk Tea', img: '/assets/jokerz/classic-milk-tea-tinted.webp', w: 540, h: 462, alt: 'Classic milk tea with tapioca pearls', price: 'classic-milk-tea' },
-  { key: 'brown-sugar', name: 'Brown Sugar Milk Tea', img: '/assets/jokerz/classic-milk-tea.webp', w: 540, h: 462, alt: 'Brown sugar milk tea with caramel stripes and pearls', price: 'brown-sugar-milk-tea' },
-  { key: 'taro', name: 'Taro Milk Tea', img: '/assets/jokerz/taro-milk-tea.webp', w: 540, h: 462, alt: 'Taro milk tea with pearls', price: 'taro-milk-tea' },
-  { key: 'latte', name: 'Cafe Latte', img: '/assets/jokerz/cafe-latte.webp', w: 900, h: 557, alt: 'Cafe latte with leaf latte art', price: 'cafe-latte' },
-  { key: 'mocha', name: 'Mocha', img: '/assets/jokerz/mocha.webp', w: 500, h: 500, alt: 'Mocha topped with whipped cream', price: 'mocha' },
-  { key: 'espresso', name: 'Espresso', img: '/assets/jokerz/espresso.webp', w: 612, h: 408, alt: 'Espresso with coffee beans', price: 'espresso' },
+  { key: 'classic', name: 'Classic Milk Tea', img: `${BASE}assets/jokerz/classic-milk-tea-tinted.webp`, w: 540, h: 462, alt: 'Classic milk tea with tapioca pearls', price: 'classic-milk-tea' },
+  { key: 'brown-sugar', name: 'Brown Sugar Milk Tea', img: `${BASE}assets/jokerz/classic-milk-tea.webp`, w: 540, h: 462, alt: 'Brown sugar milk tea with caramel stripes and pearls', price: 'brown-sugar-milk-tea' },
+  { key: 'taro', name: 'Taro Milk Tea', img: `${BASE}assets/jokerz/taro-milk-tea.webp`, w: 540, h: 462, alt: 'Taro milk tea with pearls', price: 'taro-milk-tea' },
+  { key: 'latte', name: 'Cafe Latte', img: `${BASE}assets/jokerz/cafe-latte.webp`, w: 900, h: 557, alt: 'Cafe latte with leaf latte art', price: 'cafe-latte' },
+  { key: 'mocha', name: 'Mocha', img: `${BASE}assets/jokerz/mocha.webp`, w: 500, h: 500, alt: 'Mocha topped with whipped cream', price: 'mocha' },
+  { key: 'espresso', name: 'Espresso', img: `${BASE}assets/jokerz/espresso.webp`, w: 612, h: 408, alt: 'Espresso with coffee beans', price: 'espresso' },
 ];
 function drinkTabs() {
   const left = $('[data-side="l"]');

@@ -4,7 +4,8 @@
 // Stacking: each layer render shows 14.1% (of its width) of sponge side below the cream, plus a ~4.5% cream lip,
 // so each layer rests 18.6cqw above the one below — the same look as the client's layered reference.
 
-const layer = (name, h) => ({ src: `/assets/cake/layer-${name}.webp`, w: 900, h, name });
+const BASE = import.meta.env.BASE_URL; // '/' locally, '/Jokerz_Website/' on GitHub Pages
+const layer = (name, h) => ({ src: `${BASE}assets/cake/layer-${name}.webp`, w: 900, h, name });
 // bottom -> top, matching the reference: chocolate, vanilla, cocoa, golden, vanilla
 export const LAYERS = [layer('chocolate', 501), layer('vanilla', 515), layer('cocoa', 501), layer('golden', 515), layer('vanilla', 515)];
 const STEP = 18.6;
@@ -57,8 +58,8 @@ export function buildCake(stack, sparkleBox) {
   const frost = document.createElement('div');
   frost.className = 'frost';
   frost.style.cssText = `left:${F_LEFT}cqw; top:${F_TOP}cqw; width:${F_W}cqw; height:${F_H}cqw`;
-  const frostPlain = img('/assets/cake/black-forest-frosted-plain.webp', 'frost-img');
-  const frostFinal = img('/assets/cake/black-forest-frosted.webp', 'frost-img');
+  const frostPlain = img(`${BASE}assets/cake/black-forest-frosted-plain.webp`, 'frost-img');
+  const frostFinal = img(`${BASE}assets/cake/black-forest-frosted.webp`, 'frost-img');
   frostPlain.width = frostFinal.width = FROST.w; frostPlain.height = frostFinal.height = FROST.h;
   const shine = document.createElement('div'); shine.className = 'cream-shine';
   frost.append(frostPlain, frostFinal, shine);
@@ -68,20 +69,20 @@ export function buildCake(stack, sparkleBox) {
 
   // Rosettes + cherries land on the same spots as the render's own (back ones first)
   const spots = [...CHERRY_SPOTS].sort((p, q) => p[1] - q[1]);
-  const rosettes = spots.map(([x, y], k) => place(img(`/assets/cake/topping-rosette-${ROSETTES[k % ROSETTES.length]}.webp`, 'topping rosette'), fx(x), fy(y + 52), 19, 20 + k));
-  const cherries = spots.map(([x, y], k) => place(img(`/assets/cake/topping-cherry-${CHERRIES[k % CHERRIES.length]}.webp`, 'topping cherry'), fx(x + 14), fy(y + 6), 12.5, 40 + k));
+  const rosettes = spots.map(([x, y], k) => place(img(`${BASE}assets/cake/topping-rosette-${ROSETTES[k % ROSETTES.length]}.webp`, 'topping rosette'), fx(x), fy(y + 52), 19, 20 + k));
+  const cherries = spots.map(([x, y], k) => place(img(`${BASE}assets/cake/topping-cherry-${CHERRIES[k % CHERRIES.length]}.webp`, 'topping cherry'), fx(x + 14), fy(y + 6), 12.5, 40 + k));
 
   // Chocolate curls over the top surface, plus a few that land on the plate
   const shuffled = [...CHOCOLATE].sort(() => Math.random() - 0.5);
   const chocTop = shuffled.slice(0, 24).map((n) => {
     const t = Math.random() * Math.PI * 2, r = Math.sqrt(Math.random());
     const x = SURFACE.cx + SURFACE.rx * 0.82 * r * Math.cos(t), y = SURFACE.cy + SURFACE.ry * 0.74 * r * Math.sin(t);
-    return place(img(`/assets/cake/topping-chocolate-${n}.webp`, 'topping choc'), x, y, rand(3.8, 6.4), Math.sin(t) > 0 ? 34 : 18);
+    return place(img(`${BASE}assets/cake/topping-chocolate-${n}.webp`, 'topping choc'), x, y, rand(3.8, 6.4), Math.sin(t) > 0 ? 34 : 18);
   });
   const chocPlate = shuffled.slice(24, 34).map((n) => {
     const t = rand(0.06, 0.94) * Math.PI;
     const x = 50 + rand(54, 64) * Math.cos(t), y = STACK_H - 2 + rand(8, 12) * Math.sin(t);
-    return place(img(`/assets/cake/topping-chocolate-${n}.webp`, 'topping choc'), x, y, rand(3.2, 5.4), 60);
+    return place(img(`${BASE}assets/cake/topping-chocolate-${n}.webp`, 'topping choc'), x, y, rand(3.2, 5.4), 60);
   });
   // Sparkles for the magic moment
   const colours = ['#FFFFFF', '#FFD86B', '#F7B9D3', '#BFE9EE', '#FFFFFF'];

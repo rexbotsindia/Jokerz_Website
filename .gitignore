@@ -10,3 +10,6 @@ homepage/public/assets/
 .DS_Store
 Thumbs.db
 *.log
+
+# ready-to-upload build for Netlify Drop (regenerate with npm run build)
+jokerz-homepage-site.zip
